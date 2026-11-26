@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Snooze Button Roast (make.fun).
 
-Writes the entry -- one original line -- to /output/entry.txt,
-where the sealed scorer reads it.
+Writes the entry -- a single original line, the snooze button's roast --
+to /output/entry.txt, where the sealed scorer reads it.
 """
 
 import os
